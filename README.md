@@ -1,2 +1,2 @@
-# Lectur
-e 1
+# Lecture1
+
